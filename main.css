@@ -105,6 +105,7 @@ li a:hover {
   background: cadetblue;
   border: 3px solid #a0a0a0;
   width: 30%;
+  height: 250px;
 /*  margin: 20px right;*/
     margin: 0;
   border-radius: 20px 45px;
@@ -119,6 +120,7 @@ li a:hover {
   background: cadetblue;
   border: 3px solid #a0a0a0;
   width: 30%;
+  height: 250px;
   margin: 20px auto;
   border-radius: 20px 45px;
   /*  padding: 10px;*/
@@ -132,6 +134,7 @@ li a:hover {
   background: cadetblue;
   border: 3px solid #a0a0a0;
   width: 30%;
+  height: 250px;
 /*  margin: 20px right;*/
     margin: 0;
   border-radius: 20px 45px;
