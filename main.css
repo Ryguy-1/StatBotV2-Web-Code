@@ -1,0 +1,94 @@
+ h1 {
+     color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 600%;
+    letter-spacing: 40px;
+}
+h2{
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 200%;
+    letter-spacing: 5px;
+}
+h3{
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 80%;
+    letter-spacing: 2px;
+}
+h4{
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 100%;
+    letter-spacing: 2px;
+}
+
+body {
+    background-image: url(https://thumbs.gfycat.com/GiftedViciousCrab-small.gif);
+/*    background-repeat: no-repeat;*/
+}
+    background{
+    background-color: aqua
+}
+p {
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 200%;
+}
+img {
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     align-content: ;
+    
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: cadetblue;
+    border-radius: 15px;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: inline-block;
+  color: whitesmoke;
+  text-align: center;
+  font-size: 200%;
+  padding: 16px 10px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: darkgray;
+  transition: all 0.5s ease;
+    
+}
+
+
+article {
+  background: cadetblue;
+  border: 3px solid #a0a0a0;
+  width: 80%;
+  margin: 20px auto;
+  border-radius: 10px;
+  padding: 10px;
+  transition: all 0.5s ease
+}
+
+article:hover{
+  box-shadow: 0 0 1.5rem whitesmoke;
+  background-color: darkslategrey;
+  transition: all 0.1s ease;
+}
+
