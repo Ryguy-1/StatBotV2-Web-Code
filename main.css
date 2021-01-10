@@ -91,7 +91,6 @@ li a:hover {
 
 
 .command-title{
-  background: cadetblue;
   border: 3px solid #a0a0a0;
   width: 80%;
   margin: 20px auto;
@@ -102,7 +101,6 @@ li a:hover {
 
 
 .left-article{
-  background: cadetblue;
   border: 3px solid #a0a0a0;
   width: 30%;
   height: 250px;
@@ -117,7 +115,6 @@ li a:hover {
 }
 
 .middle-article{
-  background: cadetblue;
   border: 3px solid #a0a0a0;
   width: 30%;
   height: 250px;
@@ -131,7 +128,6 @@ li a:hover {
 }
 
 .right-article{
-  background: cadetblue;
   border: 3px solid #a0a0a0;
   width: 30%;
   height: 250px;
@@ -172,7 +168,34 @@ article:hover{
   transition: all 0.2s ease;
 }
 
+.command-title:hover{
+  box-shadow: 0 0 1.5rem whitesmoke;
+  background-color: dodgerblue;
+  border-color: black;
+  transition: all 0.2s ease;
+}
 
+.left-article:hover{
+  box-shadow: 0 0 1.5rem whitesmoke;
+  background-color: skyblue;
+  border-color: black;
+  transition: all 0.2s ease;    
+}
+
+.middle-article:hover{
+  box-shadow: 0 0 1.5rem whitesmoke;
+  background-color: royalblue;
+  border-color: black;
+  transition: all 0.2s ease;    
+}
+
+
+.right-article:hover{
+  box-shadow: 0 0 1.5rem whitesmoke;
+  background-color: cornflowerblue;
+  border-color: black;
+  transition: all 0.2s ease;    
+}
 
 
 
