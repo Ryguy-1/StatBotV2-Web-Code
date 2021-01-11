@@ -19,6 +19,8 @@ Prefix: `intel` Command List: (visable within bot with  `intel help`)
 
 **=================Utility=================**
 
+`intel poll (anything)` (Creates a Poll with Custom Image for Decoration :)
+
 `intel ping` (Pings Recon)
 
 `intel help` (Command List)
