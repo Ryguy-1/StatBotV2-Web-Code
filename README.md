@@ -39,6 +39,8 @@ Prefix: `intel` Command List: (visable within bot with  `intel help`)
 
 `intel donate (@User) ($X)` (Current Balance)
 
+`intel hunt` (-$5, 1% Chance of Getting $250)
+
 `intel rps (rock/paper/scissors)` (Rock Paper Scissors Gamble) (+/-$10)
 
 **=================Fun=================**
