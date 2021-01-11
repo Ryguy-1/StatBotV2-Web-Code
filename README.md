@@ -19,7 +19,7 @@ Prefix: `intel` Command List: (visable within bot with  `intel help`)
 
 **=================Utility=================**
 
-`intel poll (anything)` (Creates a Poll with Custom Image for Decoration :)
+`intel poll (anything)` (Creates a Poll with Custom Image for Decoration :) (+$5)
 
 `intel ping` (Pings Recon)
 
@@ -27,13 +27,13 @@ Prefix: `intel` Command List: (visable within bot with  `intel help`)
 
 **=================Miscellaneous=================**
 
-`intel covid (us)` (API Not State-Specific Yet) (The Covid Tracking Project API) (+$2)
+`intel covid (us)` (API Not State-Specific Yet) (The Covid Tracking Project API) (+$5)
 
-`intel image (ImageName)` (Gives You An Image) (Unsplash API) (+$2)
+`intel image (ImageName)` (Gives You An Image) (Unsplash API) (+$5)
 
-`intel ipinfo (ip address)` (Geographical Information about any IP) (IpInfo API) (+$2)
+`intel ipinfo (ip address)` (Geographical Information about any IP) (IpInfo API) (+$5)
 
-`intel movie (movie title)` (Information about any Movie) (New York Times Movie API) (+$2)
+`intel movie (movie title)` (Information about any Movie) (New York Times Movie API) (+$5)
 
 **=================Economy=================**
 
@@ -47,41 +47,41 @@ Prefix: `intel` Command List: (visable within bot with  `intel help`)
 
 **=================Fun=================**
 
-`intel name (name)` (Predicts Your Age from Your Name) (agify.io API) (+$2)
+`intel name (name)` (Predicts Your Age from Your Name) (agify.io API) (+$5)
 
-`intel kanye` (Kanye Quotes) (Kanye Rest API) (+$2)
+`intel kanye` (Kanye Quotes) (Kanye Rest API) (+$5)
 
-`intel joke` (Amazing Jokes) (Official-Joke-API) (+$2)
+`intel joke` (Amazing Jokes) (Official-Joke-API) (+$5)
 
-`intel number (number)` (Facts about any Number) (NumbersAPI) (+$2)
+`intel number (number)` (Facts about any Number) (NumbersAPI) (+$5)
 
-`intel date (mm/dd)` (Facts about any Date) (NumbersAPI) (+$2)
+`intel date (mm/dd)` (Facts about any Date) (NumbersAPI) (+$5)
 
-`intel minecraft (server address)` (Minecraft Server Info) (api.mcsrvstat.us) (+$2)
+`intel minecraft (server address)` (Minecraft Server Info) (api.mcsrvstat.us) (+$5)
 
 **=================Animals/Characters=================**
 
-`intel dog` (Dog Pictures) (Dog API) (+$2)
+`intel dog` (Dog Pictures) (Dog API) (+$5)
 
-`intel cat` (Cat Pictures) (Cat API) (+$2)
+`intel cat` (Cat Pictures) (Cat API) (+$5)
 
-`intel pokemon (pokemon)` (Pokemon Information and Pictures) (PokeAPI) (+$2)
+`intel pokemon (pokemon)` (Pokemon Information and Pictures) (PokeAPI) (+$5)
 
 **=================Geography=================**
 
-`intel weather (long,lat)` (Detailed Weather Predictive Data) (7Timer API) (+$2)
+`intel weather (long,lat)` (Detailed Weather Predictive Data) (7Timer API) (+$5)
 
-`intel lnglat (place)` (Gives You the Longitude,Latitude of Anywhere in the World) (OpenCage API) (+$2)
+`intel lnglat (place)` (Gives You the Longitude,Latitude of Anywhere in the World) (OpenCage API) (+$5)
 
-`intel placeinfo (place)` (Gives You General Information About Any Place in the World) (OpenCage API) (+$2)
+`intel placeinfo (place)` (Gives You General Information About Any Place in the World) (OpenCage API) (+$5)
 
 **=================Stonks/Currency=================**
 
-`intel stonk (stock symbol)` (Current Stock Ticker Information) (Finnhub.io) (+$2)
+`intel stonk (stock symbol)` (Current Stock Ticker Information) (Finnhub.io) (+$5)
 
-`intel detailstonk (stock symbol)` (Detailed Stock Information) (Finnhub.io) (+$2)
+`intel detailstonk (stock symbol)` (Detailed Stock Information) (Finnhub.io) (+$5)
 
-`intel convertcurrency (convert from,convert to)` (Currency Conversion Rates) (ExchangeRate-API) (+$2)
+`intel convertcurrency (convert from,convert to)` (Currency Conversion Rates) (ExchangeRate-API) (+$5)
 
 ## APIs Referenced
 Google, The Covid Tracking Project, 7Timer, Agify.io, Unsplash, OpenCage, ExchangeRate-API, IpInfo, Kanye Rest, Official-Joke-API, New York Times Movie API, PokeAPI, Dog API, Cat API, NumbersAPI, api.mcsrvstat.us, Finnhub.io
