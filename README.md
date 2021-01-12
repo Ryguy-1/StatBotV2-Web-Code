@@ -59,6 +59,8 @@ Prefix: `intel` Command List: (visable within bot with  `intel help`)
 
 `intel minecraft (server address)` (Minecraft Server Info) (api.mcsrvstat.us) (+$5)
 
+`intel roast (@user)` (Roast a Friend) (+$5)
+
 **=================Animals/Characters=================**
 
 `intel dog` (Dog Pictures) (Dog API) (+$5)
