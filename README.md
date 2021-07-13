@@ -93,5 +93,3 @@ Seggustions are welcomed and can be done through the /seggust command from withi
 
 If there are any publicly available APIs which the community would like to see, let us know and we will do our best to implement the feature ASAP!
 
-## License
-© 2021, Jumpstation One LLC. All rights reserved.
